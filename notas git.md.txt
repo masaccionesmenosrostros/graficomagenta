@@ -1,0 +1,7 @@
+3 Estados:
+
+Entorno de preparación
+Entorno desarrollo
+Entorno repositorio
+
+
